@@ -1,0 +1,55 @@
+#navbar {
+			background-color: #243046; opacity: 0.9; height: 65px;
+		}
+		#title {
+			font-weight: bolder; color: #fffaf9; margin-left: 100px;
+		}
+		ul#right {
+			float: right; margin-right: 70px;
+		}
+		#right2 {
+			color: #fffaf9;
+
+		}
+		#question {
+			position: relative;
+		}
+		#red {
+			background-color: #6c2411; height: 764px; width: 1440px; opacity: 0.3;position: relative;text-align: center;
+		}
+		h1 {
+			position: absolute; top: 30px; color: #fffaf9;
+			padding-left: 50px; font-size: 70px; font-weight: bolder;
+		}
+		body {
+			background-image: url(https://files01.pna.gov.ph/ograph/2022/04/02/forest-fire.jpg); background-size: 110%; background-position-x: -140px; background-repeat: no-repeat;
+		}
+		p#A1 {
+			position: absolute; top: 170px; color: #fffaf9;
+			padding-left: 50px; padding-right: 430px; text-align: justify;
+		}
+		h3#Q1 {
+			position: absolute; top: 130px; color: #fffaf9;
+			padding-left: 50px; font-weight: bold;
+		}
+		h3#Q2 {
+			position: absolute; top: 290px; color: #fffaf9;
+			padding-left: 50px; font-weight: bold;
+		}
+		p#A2 {
+			position: absolute; top: 330px; color: #fffaf9;
+			padding-left: 50px; padding-right: 430px; text-align: justify;
+		}
+		p#A3{
+			position: absolute; top: 460px; color: #fffaf9;
+			padding-left: 50px; padding-right: 430px; text-align: justify;
+		}
+		#bottom {
+			background-color: #243046; height: 170px; width: 1440px; position: relative;text-align: center;
+		}
+		#bottom2 {
+			position: absolute; top: 800px; color: #fffaf9; margin-left: 500px;
+		}
+		button {
+			position: absolute; top: 850px; width: 450px; margin-left: 470px;
+		}
